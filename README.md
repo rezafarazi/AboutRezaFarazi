@@ -14,7 +14,7 @@
 [![Php](https://img.shields.io/badge/PHP%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 ---
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com/)
-[![Symfony](https://img.shields.io/badge/symfony-black?&style=flat&logo=symfony&logoColor=white)](https://symfony.com/)
+![Spring](https://img.shields.io/static/v1?message=JAVA&style=flat&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ---
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ---
