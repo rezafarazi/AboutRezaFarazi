@@ -9,6 +9,7 @@
 ### 🔧 Tools & Technologies
 
 ![JAVA](https://img.shields.io/static/v1?message=JAVA&style=flat&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+[![Python](https://img.shields.io/badge/Python%20-%2314354C?&style=flat&logo=python&logoColor=%23F7DF1A)](https://www.python.org/)
 ![C#](https://img.shields.io/static/v1?message=JAVA&style=flat&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 [![Php](https://img.shields.io/badge/PHP%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 ---
@@ -20,4 +21,4 @@
 
 <br>
 
-![160240098-c58aa916-97a3-49ef-bbef-0386983e13d8](https://user-images.githubusercontent.com/45543047/162906088-bb9c897c-76d7-420b-87ef-69a5d4537f2e.png)
+#![160240098-c58aa916-97a3-49ef-bbef-0386983e13d8](https://user-images.githubusercontent.com/45543047/162906088-bb9c897c-76d7-420b-87ef-69a5d4537f2e.png)
