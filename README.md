@@ -10,7 +10,7 @@
 
 ![JAVA](https://img.shields.io/static/v1?message=JAVA&style=flat&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 [![Python](https://img.shields.io/badge/Python%20-%2314354C?&style=flat&logo=python&logoColor=%23F7DF1A)](https://www.python.org/)
-![C#](https://img.shields.io/static/v1?message=C#&style=flat&logo=microsoft&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![C#](https://img.shields.io/static/v1?message=C-Sharp&style=flat&logo=microsoft&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 [![Php](https://img.shields.io/badge/PHP%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 ---
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com/)
