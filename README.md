@@ -9,6 +9,7 @@
 ### 🔧 Tools & Technologies
 
 ![JAVA](https://img.shields.io/static/v1?message=JAVA&style=flat&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![C#](https://img.shields.io/static/v1?message=JAVA&style=flat&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 [![Php](https://img.shields.io/badge/PHP%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 ---
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
